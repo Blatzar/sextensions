@@ -1,0 +1,1 @@
+println("RUNNING FROM SCRIPT")
